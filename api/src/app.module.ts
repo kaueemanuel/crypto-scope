@@ -1,9 +1,9 @@
 ﻿import { Module } from "@nestjs/common";
-import { PricesModule } from './prices/prices.module';
+import { CoinsModule } from './coins/coins.module';
 
 @Module({
-  imports: [PricesModule],
+  imports: [CoinsModule],
   controllers: [],
   providers: [],
 })
-export class AppModule {}
+export class AppModule { }

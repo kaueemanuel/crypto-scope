@@ -1,0 +1,13 @@
+{
+  "home_page": {
+    "title": "CryptoScope",
+    "search_placeholder": "Search for cryptocurrencies...",
+    "loading": "Loading cryptocurrencies...",
+    "error_loading": "Error loading cryptocurrencies.",
+    "coin_card": {
+      "price": "price",
+      "market_cap": "market cap",
+      "change_24h": "24h change"
+    }
+  }
+}

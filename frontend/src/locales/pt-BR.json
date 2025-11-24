@@ -1,0 +1,13 @@
+{
+  "home_page": {
+    "title": "CryptoScope",
+    "search_placeholder": "Procure por cryptomoedas...",
+    "loading": "Carregando cryptomoedas...",
+    "error_loading": "Erro ao carregar cryptomoedas.",
+    "coin_card": {
+      "price": "preço",
+      "market_cap": "capitalização de mercado",
+      "change_24h": "variação 24h"
+    }
+  }
+}

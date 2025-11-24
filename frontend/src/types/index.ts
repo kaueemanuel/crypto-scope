@@ -1,2 +1,2 @@
-export * from './crypto.type';
+export * from './coin.type';
 

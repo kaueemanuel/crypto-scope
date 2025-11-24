@@ -1,2 +1,2 @@
-export * from './prices.services';
+export * from './coins.services';
 
