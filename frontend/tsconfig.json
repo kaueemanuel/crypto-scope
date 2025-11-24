@@ -25,9 +25,9 @@
       "@/*": [
         "./src/*"
       ],
-      "@mercai/clever": [
-        "./src/lib"
-      ]
+      "@/lib/*": [
+        "./src/lib/*"
+      ],
     },
     "target": "ES2017"
   },

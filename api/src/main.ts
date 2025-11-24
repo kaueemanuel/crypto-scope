@@ -7,7 +7,7 @@ async function bootstrap() {
 
   // Swagger Configuration
   const config = new DocumentBuilder()
-    .setTitle('CryptoPulse API')
+    .setTitle('CryptoScope API')
     .setDescription('API for cryptocurrency dashboard with real-time prices')
     .setVersion('1.0')
     .addTag('prices', 'Cryptocurrency price endpoints')
